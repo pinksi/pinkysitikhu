@@ -1,2 +1,2 @@
-# pinkysitikhu.github.io
+# pinksi.github.io
 My website
