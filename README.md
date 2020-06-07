@@ -1,2 +1,3 @@
-# pinksi.github.io
-My website
+My personal website
+
+Uses the **Lagrange** Jekyll theme.
