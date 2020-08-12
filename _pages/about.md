@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: images/01.jpg
+image: images/about_me.jpg
 ---
 
 I am a computer science graduate with a degree in computer engineering from Tribhuvan University, Institute of Engineering, <a href="http://doece.pcampus.edu.np/" target="_blank">Pulchowk Campus</a> in Nepal. My undergraduate thesis <a href="https://github.com/pinksi/Project-Report" target="_blank">"Stock Market Analysis and Prediction"</a> was supervised by <a href="https://scholar.google.com/citations?user=ZB6i0OKaPo4C&hl=en" target="_blank">Prof. Dr. Subarna Shakya</a>.
