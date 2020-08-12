@@ -1,3 +1,3 @@
 My personal website
 
-Uses the **Lagrange** Jekyll theme.
+Uses the **Reked** Jekyll theme.

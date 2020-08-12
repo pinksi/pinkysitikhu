@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Out of words.."
-author: "Pinky Sitikhu"
-categories: journal
-tags: [writing, self]
-image: out_of_words.jpeg
+title:  Out of words..
+date:   2019-04-30
+image:  images/out_of_words.jpeg
+tags:   [writing, self]
 ---
 You want to write a thousand pages of a book, you have billions and zillions things to write, and you take your pen and notebook or your laptop, **Oops,** you suddenly become out of the words. Then you sit down and start to think, what you were thinking to write, and how you ended up here.
 
