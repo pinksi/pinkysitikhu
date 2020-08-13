@@ -5,8 +5,33 @@ permalink: /about/
 image: images/about_me.jpg
 ---
 
-I am a computer science graduate with a degree in computer engineering from Tribhuvan University, Institute of Engineering, <a href="http://doece.pcampus.edu.np/" target="_blank">Pulchowk Campus</a> in Nepal. My undergraduate thesis <a href="https://github.com/pinksi/Project-Report" target="_blank">"Stock Market Analysis and Prediction"</a> was supervised by <a href="https://scholar.google.com/citations?user=ZB6i0OKaPo4C&hl=en" target="_blank">Prof. Dr. Subarna Shakya</a>.
+Hi! I am Pinky. 
 
-My primary interests lie in the field of natural language processing (NLP) and computer vision (CV). I am interested to work on projects related to information retrieval, data mining, classification and different applications related to CV and NLP.
+- I am a **Computer Engineer**, graduated with a degree in computer engineering from Tribhuvan University, **[IOE, Pulchowk Campus](http://doece.pcampus.edu.np)** in 2017.
+- I am currently working as a Data Scientist at **[Docsumo](https://docsumo.com/)**.
+- My primary interests lie in the field of **machine learning and computer vision**. I am very interested to work on projects related to information retrieval, data mining, classification and different applications related to CV and NLP.
+- Here are my **two research** publication published in **IEEE**, from my engineering career. I am really looking forward to do more impactful research and publish them in different AI conferences.
 
-My hobbies includes traveling and reading novels. I love to be in lost within nature and prefer trekkings. Sometimes I scribble my random thoughts in words. You can read few of my writings from <a href="https://medium.com/@pinky.sitikhu524" target="_blank">here.</a>
+    1. **[Real-Time Stock Prediction Using Neural Network](https://ieeexplore.ieee.org/document/8443057)**
+    2. **[A Comparison of Semantic Similarity Methods for Maximum Human Interpretability](https://ieeexplore.ieee.org/document/8947433)**
+
+<!-- Hobbies -->
+- Traveling has been ingrained in me from my childhood. I mostly prefer trekking and here are the few of the wonderful places of Nepal, I have been to:
+        
+    1. Mardi Base Camp
+    2. Annapurna Circuit
+    3. Annapurna Base Camp
+    4. Poonhill
+    5. Gosainkunda 
+
+    <!-- I am planning to write my travel stories of the places I have been to here as well. Here you can follow me if you like to see my travel journey: [insta link] -->
+
+    Here are the list of the places that I am looking forward to reach before turning 30.
+        
+    1. Everest base camp & Gokyo Lake
+    2. Langtang Trek
+    3. Shey Phoksundo & Dolpo Circuit Trek
+
+    Also want to do some international traveling within these years. So, let's see what life has hold for me.
+
+- I am an average reader. I like to read mainly fictional novels and nowadays, I am trying to form a habit of reading non-fiction and self help books as well.

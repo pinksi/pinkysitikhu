@@ -1,5 +1,5 @@
 title: Pinky Sitikhu
-# logo: "images/logo.svg" # You can add own logo image.
+logo: "images/logo_me.jpg" # You can add own logo image.
 description: Documenting my thinking process
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
