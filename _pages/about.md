@@ -18,11 +18,11 @@ Hi, I am Pinky, a bit clumsy but happy in my heart :D.
 <!-- Hobbies -->
 - Traveling has been ingrained in me from my childhood. I mostly prefer trekking and here are the few of the wonderful places of Nepal, I have been to:
         
-    1. Mardi Base Camp
-    2. Annapurna Circuit
-    3. Annapurna Base Camp
-    4. Poonhill
-    5. Gosainkunda 
+    1. Mardi Base Camp [4500m] (Snowy adventure, met best people)-- [2019]
+    2. Annapurna Circuit (**Tilicho Lake** [World's highest altitude lake, 4949m], and **Thorang La pass** [5416m]) -- [2018]
+    3. Gosainkunda (Silu [4380m]) -- [2017]
+    4. Annapurna Base Camp [4130m] -- [2016]
+    5. Poonhill [3210m] -- [2015]
 
     <!-- I am planning to write my travel stories of the places I have been to here as well. Here you can follow me if you like to see my travel journey: [insta link] -->
 
@@ -31,6 +31,8 @@ Hi, I am Pinky, a bit clumsy but happy in my heart :D.
     1. Everest base camp & Gokyo Lake
     2. Langtang Trek
     3. Shey Phoksundo & Dolpo Circuit Trek
+    4. Rara National Park
+    5. Khaptad National Park
 
     Also want to do some international traveling within these years. So, let's see what life has hold for me.
 
