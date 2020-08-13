@@ -2,10 +2,10 @@
 layout: page
 title: About
 permalink: /about/
-image: images/about_me.jpg
+image: images/abt_me.jpg
 ---
 
-Hi! I am Pinky. 
+Hi, I am Pinky, a bit clumsy but happy in my heart :D. 
 
 - I am a **Computer Engineer**, graduated with a degree in computer engineering from Tribhuvan University, **[IOE, Pulchowk Campus](http://doece.pcampus.edu.np)** in 2017.
 - I am currently working as a Data Scientist at **[Docsumo](https://docsumo.com/)**.
@@ -34,4 +34,4 @@ Hi! I am Pinky.
 
     Also want to do some international traveling within these years. So, let's see what life has hold for me.
 
-- I am an average reader. I like to read mainly fictional novels and nowadays, I am trying to form a habit of reading non-fiction and self help books as well.
+- I like to read fictional novels and short stories (choose mostly books with happy ending :D). Nowadays, I am trying to form a habit of reading non-fiction and self help books as well.
