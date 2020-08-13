@@ -7,7 +7,7 @@ image: images/abt_me.jpg
 
 Hi, I am Pinky, a bit clumsy but happy in my heart :D. 
 
-- I am a **Computer Engineer**, graduated with a degree in computer engineering from Tribhuvan University, **[IOE, Pulchowk Campus](http://doece.pcampus.edu.np)** in 2017.
+- I am a **Software Engineer**, graduated with a degree in computer engineering from Tribhuvan University, **[IOE, Pulchowk Campus](http://doece.pcampus.edu.np)** in 2017.
 - I am currently working as a Data Scientist at **[Docsumo](https://docsumo.com/)**.
 - My primary interests lie in the field of **machine learning and computer vision**. I am very interested to work on projects related to information retrieval, data mining, classification and different applications related to CV and NLP.
 - Here are my **two research** publication published in **IEEE**, from my engineering career. I am really looking forward to do more impactful research and publish them in different AI conferences.
