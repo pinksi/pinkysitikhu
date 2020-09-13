@@ -24,7 +24,7 @@ Hi, I am Pinky, a bit clumsy but happy in my heart :D.
     4. Annapurna Base Camp [4130m] -- [2016]
     5. Poonhill [3210m] -- [2015]
 
-    <!-- I am planning to write my travel stories of the places I have been to here as well. Here you can follow me if you like to see my travel journey: [insta link] -->
+    <!-- <.> -->
 
     Here are the list of the places that I am looking forward to reach before turning 30.
         
@@ -34,6 +34,10 @@ Hi, I am Pinky, a bit clumsy but happy in my heart :D.
     4. Rara National Park
     5. Khaptad National Park
 
+    <!-- <.> -->
+
     Also want to do some international traveling within these years. So, let's see what life has hold for me.
+
+- I am planning to share bits and pieces of my travel in form of photos or blog post. If you are interested to know about my journey, you can follow me <b>[here](https://www.instagram.com/aloo_travellers/)</b>.
 
 - I like to read fictional novels and short stories (choose mostly books with happy ending :D). Nowadays, I am trying to form a habit of reading non-fiction and self help books as well.
