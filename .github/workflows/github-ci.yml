@@ -19,6 +19,3 @@ jobs:
 
       - name: test ci pipeline
         run: ls
-
-      - name: deploy in server
-        run: 
