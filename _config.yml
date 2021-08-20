@@ -18,13 +18,13 @@ instagram: https://www.instagram.com/aloo_travellers/ # Add your Instagram handl
 email: pinky.sitikhu524@gmail.com # Add your Email address
 
 # Hero Section
-hero: true # To enable the section hero, use the value true. To turn off use the value false.
+hero: false # To enable the section hero, use the value true. To turn off use the value false.
 hero-title: Good Things Take Time # Add your hero title
 hero-subtitle: Have Faith # Add your hero subtitle
 hero-image: images/tree_hero.jpg # Add background image in section hero
 
 # Footer
-footer-image: images/14.jpg # Add background image in footer
+# footer-image: images/14.jpg # Add background image in footer
 
 # Comment Section (Disqus)
 disqus-identifier: pinksi # Add your shortname for Disqus Comment. For example mr-brown
