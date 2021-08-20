@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Experts from Naval Ravikant tweets
+title: Excerpts from Naval Ravikant tweets
 date:  2021-08-18
 tags: [motivation]
 ---
 
-### Experts from Naval Ravikant tweets
+### Excerpts from Naval Ravikant tweets
 
 A Few days earlier, I came to know about this person **Naval Ravikant.** I listened to his podcasts, watched videos explaining and decoding his tweets and his interviews on YouTube. I am really impressed with his thinking process and found this person very inspiring. Noting down a few of the lessons learned from all these resources.
 
