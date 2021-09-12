@@ -14,7 +14,7 @@ twitter: https://twitter.com/PinkySitikhu # Add your Twitter handle
 # facebook: https://facebook.com/ # Add your Facebook handle
 # dribbble: https://dribbble.com/ # Add your Dribbble handle
 instagram: https://www.instagram.com/aloo_travellers/ # Add your Instagram handle
-# pinterest: https://pinterest.com/ # Add your Pinterest handle
+pinterest: https://www.pinterest.com/aloo_travellers/_created/ # Add your Pinterest handle
 email: pinky.sitikhu524@gmail.com # Add your Email address
 
 # Hero Section
@@ -42,6 +42,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll/tagging
+  - jekyll-redirect-from
 
 paginate: 4
 paginate_path: "/page/:num"

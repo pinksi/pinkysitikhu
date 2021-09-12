@@ -1,45 +1,40 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+# permalink: /about/
 # image: images/abt_me.jpg
 ---
 
-Hi, I am Pinky, a bit clumsy but happy in my heart :D. 
+MS Student, University of Louisiana at Lafayette
 
-- I am a **Software Engineer**, graduated with a Bachelor's degree in computer engineering from Tribhuvan University, **[IOE, Pulchowk Campus](http://doece.pcampus.edu.np)** in 2017. I will be starting my **Master's Degree in Informatics** from **University of Louisiana at Lafayette** from Fall 2021.
-<!-- - I am currently working as a Data Scientist at **[Docsumo](https://docsumo.com/)**. -->
+### Education
+I have started my Masters in Informatics in School of Computing and Informatics at <ins>[University of Louisiana at Lafayette](https://computing.louisiana.edu/){:target="_blank"}</ins> from Fall 2021. 
 
-- My primary interests lie in the field of **machine learning and computer vision**. I am very interested to work on projects related to information retrieval, data mining, classification and different applications related to CV and NLP.
-- Here are my **two research** publications published in **IEEE**, from my engineering career. I am really looking forward to doing more impactful research and publishing them in different AI conferences.
+I completed my undergraduate degree in Computer Engineering from Tribhuvan University, <ins>[Institute of Engineering](http://doece.pcampus.edu.np){:target="_blank"}</ins> in Nepal in 2017. 
 
-    1. **[Real-Time Stock Prediction Using Neural Network](https://ieeexplore.ieee.org/document/8443057)**
-    2. **[A Comparison of Semantic Similarity Methods for Maximum Human Interpretability](https://ieeexplore.ieee.org/document/8947433)**
+### Research Interests
+My research interests lies in the areas of data science and machine learning. I am interested in information extraction from documents using NLP, Computer Vision and Machine learning. 
 
-<!-- Hobbies -->
-- Traveling has been ingrained in me from my childhood. I mostly prefer trekking and here are the few of the wonderful places of Nepal, I have been to:
-        
-    1. Langtang Trek [2020] 
-    2. Mardi Base Camp [4500m] (Snowy adventure, met best people)-- [2019]
-    3. Annapurna Circuit (**Tilicho Lake** [World's highest altitude lake, 4949m], and **Thorong La pass** [5416m]) -- [2018]
-    4. Gosainkunda (Silu [4380m]) -- [2017]
-    5. Annapurna Base Camp [4130m] -- [2016]
-    6. Poonhill [3210m] -- [2015]
-    <!-- <.> -->
+### Publications
+1. <b>P. Sitikhu</b>, K. Pahi, P. Thapa, "A Comparison of Semantic Similarity Methods for Maximum Human Interpretability", 2019 <i>Artificial Intelligence for Transforming Business and Society (AITB)</i>, Kathmandu Nepal, 2019, DOI: <ins>[10.1109/AITB48515.2019.8947433](https://ieeexplore.ieee.org/document/8947433){:target="_blank"}</ins>
 
-    Here is the list of the places that I am looking forward to reaching before turning 30.
-        
-    1. Everest base camp & Gokyo Lake
-    2. Shey Phoksundo & Dolpo Circuit Trek
-    3. Rara National Park
-    4. Khaptad National Park
+2. A. Shakya, A. Pokhrel, A. Bhattarai, <b>P. Sitikhu</b>, S. Shakya, <i>2018 8th International Conference on Cloud Computing, Data Science & Engineering (Confluence)</i>, New Delhi, India, 2018, DOI: <ins>[10.1109/CONFLUENCE.2018.8443057](https://ieeexplore.ieee.org/document/8443057){:target="_blank"}</ins>
 
-    <!-- <.> -->
+### Work Experiences
+<b><ins>1. [Docsumo](https://docsumo.com/){:target="_blank"}</ins> (Nov 2019 - July 2021)</b> - <i>Data Scientist</i>
 
-    Also want to do some international traveling within these years. So, let's see what life has held for me.
+<!-- - Developed an application that extracts information from digital pdfs, scanned documents and images with 90% accuracy
+- Built texts and images based classification models using fastText, MobileNet and deployed in GCP
+- Worked on creating full-fledged projects: data collection and annotation, model development, evaluation, optimization, visualization and model deployment
+- Researched and implemented state-of-the-art papers and algorithms in computer vision domain -->
 
-- I am planning to share bits and pieces of my travel in the form of photos or blog posts. If you are interested to know about my travel journey, you can follow me @<b>[Instagram](https://www.instagram.com/aloo_travellers/)</b> and @[here](https://aloo-travellers.netlify.app/) is my blog, where I will be writing about all my travel memories, stories, itineraries and information that I have.
+<b><ins>2. [ITONICS](https://www.itonics-innovation.com/){:target="_blank"}</ins> (Apr 2018 - Sep 2019)</b> - <i>Data Scientist</i>
 
-- I like to read fictional novels and short stories (choose mostly books with happy a ending :D). Nowadays, I am trying to form a habit of reading non-fiction and self-help books as well.
+<!-- - Built a prediction and information extraction system that predicts emerging topics and trends related to technology using scientific papers and patents
+- Detection and analysis of weak signals as outliers from textual data
+- Developed a real-world project prototype from scratch, working from data collection, pre-processing, model building, output analysis and visualization -->
 
-- Current Read: <i>The 5 am Club by Robin Sharma</i>
+<b><ins>3. [LIS Nepal](http://www.lisnepal.com.np/){:target="_blank"}</ins> (Oct 2017 - Mar 2018)</b> - <i>Software Developer</i>
+
+<!-- - Created backend endpoints and frontend modules for a web-based application using Java and angular
+- Worked with data warehousing tools (RA/RDW), ETL Tools(ODI), Shell Scripting, OBIEE -->
