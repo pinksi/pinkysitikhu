@@ -38,3 +38,6 @@ My research interests lies in the areas of data science and machine learning. I 
 
 <!-- - Created backend endpoints and frontend modules for a web-based application using Java and angular
 - Worked with data warehousing tools (RA/RDW), ETL Tools(ODI), Shell Scripting, OBIEE -->
+
+### Hobbies
+I really like to travel, mostly prefer trekking and be amidst nature. Few of my treasured travel memories can be seen <ins>[here](https://www.instagram.com/aloo_travellers/){:target="_blank"}</ins>. 
