@@ -1,17 +1,72 @@
----
-layout: default
----
-{% if site.hero == true %}
-	{% include hero.html %}
-{% endif %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
 
-<div class="container">
-	<div class="row">
-		{% if site.posts.size > 0 %}
-			{% for post in paginator.posts %}
-				{% include article-content.html %}
-			{% endfor %}
-		{% endif %}
-	</div>
-</div>
-{% include pagination.html %}
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+
+    <title>Pinky Sitikhu</title>
+
+    <!-- Import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- Import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+
+    <!-- The wrapper and content divs set margins and positioning -->
+    <div class="wrapper">
+      <div class="content" role="main">
+        <div class="instructions">
+          <div class="row">
+            <!-- <div class="column">
+              <div>
+                <img
+                  src="images/profile_image.jpg"
+                  class="centerimg"
+                />
+              </div>
+            </div> -->
+            <div class="column">
+              <h2>Hello! I am Pinky.</h2>
+              <p>
+                I am a graduate student at
+                <b>University of Louisiana at Lafayette</b> pursuing an
+                <b>MS in Informatics</b>. I completed my undergraduate degree in Computer Engineering from 
+                <b>Tribhuvan University, Pulchowk Campus, Nepal</b>. My undergraduate thesis on Stock Market Prediction using 
+                Neural Networks <a href="https://ieeexplore.ieee.org/document/8443057"><b>[paper]</b></a> was supervised by Prof. Subarna Shakya.
+                I am interested in pursuing career in industry working on <b>applied machine learning in NLP and CV</b>.
+              </p>
+
+              <p>
+                Currently, I am conducting <b>research</b> under <b>Prof. Li Chen</b> on project related to <b>flood time-series prediction 
+                using GNN</b> and served as a Teaching Assistant for <b>Machine Learning Application</b> class under <b>Prof. Michael Totaro</b>.
+              </p>
+
+              <p>
+                Previously, I have worked as a <b>Data Scientist</b> at <b>Docsumo, Itonics</b> and worked as a <b>Software Engineer</b> 
+                in <b>LIS Nepal</b>. I have also conducted personal research and published the <a href="https://ieeexplore.ieee.org/document/8947433"><b>paper</b></a> in <b>IEEE</b>.
+              </p>
+              <br />
+              <div>
+                <a href="https://www.linkedin.com/in/pinky-sitikhu-5579b2a0/"
+                  >linkedin</a
+                >
+                &nbsp; <a href="https://github.com/pinksi">github</a> &nbsp;
+                <a href="mailto:pinky.sitikhu524@gmail.com">email</a> &nbsp;
+                <a
+                  href="https://drive.google.com/file/d/1lAcbOe6xtR-jMPl9C8oED0I5-H4D9qgI/view?usp=sharing"
+                  >resume</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
